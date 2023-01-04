@@ -1,15 +1,5 @@
-//Creamos las variables númericas con valor fijo
-var numero1 = 15;
-var numero2 = 15;
+//Creamos la variable String que nos pida el valor mediante promp y qyede guardado en ésta
+var nombre = prompt('Introduce tu nombre');
 
-//hacemos una comparación de condición en dos pasos:
-if (numero1 == numero2){  
-    console.log('Los dos números son iguales');
-    // comprobamos si los dos números son iguales, en caso afirmativo nos lo dirá por consola.
-}else if (numero1 > numero2){
-    console.log('El nº ' + numero1 + ' es mayor que el nº ' + numero2);
-    
-}else{
-    console.log('El nº ' + numero2 + ' es mayor que el nº ' + numero1);
-}
-// en caso negativo comprobaremos si el numero1 es mayor al numero2, en caso afirmativo nos pondrá por consola que el 1r numero es mayor que el 2do, si ésta ultima condición no se cumple significa que el numero2 es el mayor y nos lo mostrará por consola.
+//Mandamos una orden de imprimir en consola el mensaje "Bienvenido " y el valor de la variable con valor Sring "nombre"
+console.log('Bienvenido ' + nombre);
