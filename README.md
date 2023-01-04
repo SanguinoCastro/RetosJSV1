@@ -4,7 +4,7 @@
 
 ###Los retos a cumplir són los siguientes:
 
-1. Declara 2 variables numéricas (con el valor que desees), indica cual es mayor de los dos. Si son iguales indicalo también. Puedes ir cambiando los valores para comprobar que funciona.
+<b>1. Declara 2 variables numéricas (con el valor que desees), indica cual es mayor de los dos. Si son iguales indicalo también. Puedes ir cambiando los valores para comprobar que funciona.
 <br>
 2. Declara un String que contenga tu nombre, después muestra un mensaje de bienvenida por consola. Por ejemplo: si introduzco “Fernando”, me aparezca “Bienvenido Fernando”.
 <br>
@@ -36,9 +36,13 @@
 *: multiplica los operandos.
 /: divide los operandos, este debe dar un resultado con decimales (double)
 ^: 1o operando como base y 2o como exponente.
-%: módulo, resto de la división entre operando1 y operando2.
+%: módulo, resto de la división entre operando1 y operando2.</b>
 
 ***
+###Extras añadidos:
+
+<b>Para hacer los retos un poco más visuales, aquellos que piden al usuario algún tipo de dato he hecho que se muestre en pantalla dentro de un div el resultado del programa.</b>
 
 ###Actualizaciones:
-<b>04/01/2023.- Se han iniciado los retos de JavaScript Vanilla parte 1. Se han preparado las carpetas para cada uno de los retos.</b>
+
+<b>04/01/2023.- Se han iniciado los retos de JavaScript Vanilla parte 1. Se han preparado las carpetas para cada uno de los retos y se han realizado los retos 1, 2, 3, 4, 5 y 6.</b>
