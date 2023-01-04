@@ -1,14 +1,25 @@
 body{
-    background-color: aqua;
+    background-color: black;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
 }
 
 
 .hello_world{
     display: flex;
+    flex-direction: column;
     justify-content: center;
     align-items: center;
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
-    font-style: italic;
     font-size: xx-large;
-    color: rgb(31, 31, 175);
+    color: white;
+    height: 15em;
+    width: 95%;
+}
+
+#anotacion{
+    font-style: italic;
+    font-size: large;
 }
