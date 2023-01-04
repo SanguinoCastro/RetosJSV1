@@ -1,0 +1,14 @@
+body{
+    background-color: aqua;
+}
+
+
+.hello_world{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-style: italic;
+    font-size: xx-large;
+    color: rgb(31, 31, 175);
+}
