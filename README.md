@@ -46,3 +46,4 @@
 ###Actualizaciones:
 
 <b>04/01/2023.- Se han iniciado los retos de JavaScript Vanilla parte 1. Se han preparado las carpetas para cada uno de los retos y se han realizado los retos 1, 2, 3, 4, 5 y 6.</b>
+<b>05/01/2023.- Se han realizado los retos 7, 8, 9, 10, 11, 12 y 13, dando por finalizados los retos de JavaScript Vanilla parte 1</b>
