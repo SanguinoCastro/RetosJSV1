@@ -21,10 +21,15 @@ body{
     width: 95%;
 }
 
+#retoexpl{
+    font-size: large;
+    margin-top: -3em;
+}
+
 #anotacion{
     font-style: italic;
     font-size: large;
-    margin-top: 10em;
+    margin-top: 3em;
 }
 
 #resultado{

@@ -5,13 +5,28 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link href="CSS/style.css" rel="stylesheet" type="text/css">
-    <title>Retos JavaScript Vanilla nº4</title>
+    <title>Retos JavaScript Vanilla nº13 Calculadora inversa</title>
 </head>
 <body>
     <div class="reto">
-        <h1>RETO 4:</h1>
-        <p>Haz una aplicación que calcule el area de un círculo (pi*R2). El radio se pedirá por teclado (recuerda pasar de String a double con parseDouble). Usa la constante PI</p>
-        <p id="anotacion">Para hacer el ejercicio mas visual, aparte de en consola se mostrará el resultado en el siguiente recuadro:</p>
+        <h1>RETO 13: Calculadora Inversa</h1>
+        <p>Crea una aplicación llamada CalculadoraInversa, nos pedirá 2 operandos (int) y un signo aritmético (String), según este último se realizará la operación correspondiente. Al final se mostrará en un cuadro de dialogo.</p>
+        <br>
+        <p id="retoexpl">Los signos aritméticos disponibles són:
+        <br>
+        +: suma los dos operandos.
+        <br>
+        -: resta los operandos.
+        <br>
+        *: multiplica los operandos.
+        <br>
+        /: divide los operandos.
+        <br>
+        ^: 1º operando como base y 2º como exponente.
+        <br>
+        %: módulo, resto de la división entre operando1 y operando2.        
+        </p>
+        <p id="anotacion">En este cuadro se muestra el resultado:</p>
         <div id="resultado"></div>
     </div>
 
