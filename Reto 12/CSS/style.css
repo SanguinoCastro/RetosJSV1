@@ -24,7 +24,13 @@ body{
 #anotacion{
     font-style: italic;
     font-size: large;
-    margin-top: 10em;
+    margin-top: 5em;
+}
+
+#anotacion2{
+    font-style: italic;
+    font-size: small;
+    color: darkgray;
 }
 
 #resultado{

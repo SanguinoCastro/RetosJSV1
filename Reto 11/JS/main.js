@@ -403,5 +403,4 @@ break;
     break;
 }
 
-
-
+//Podemos ver que la utilización de SWITCH puede ser muy engorrosa y resultar en mucho codigo cuándo hay muchas variables posibles para un valor.
